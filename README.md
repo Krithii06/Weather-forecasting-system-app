@@ -122,11 +122,7 @@ Step 4: The forecast result will be stored in ‘prediction’ folder. The predi
 
 ** Programming Language: Python
 
-IDE: VS-CODE
-GUI: wxPython, wxFormBuilder
-
-Web Scraping: BeautifulSoup, ParseHub
-
-Debugging & Testing: Jupyter Notebook
-
+IDE: Spyder
+GUI: Streamlit
+Debugging & Testing: Google Colab 
 Data Format: Microsoft Excel
